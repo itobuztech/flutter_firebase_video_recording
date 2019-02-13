@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "702878783577",
+    "firebase_url": "https://video-rec-a45ba.firebaseio.com",
+    "project_id": "video-rec-a45ba",
+    "storage_bucket": "video-rec-a45ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702878783577:android:bc31114c5426de4c",
+        "android_client_info": {
+          "package_name": "com.itobuz.videorec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702878783577-5906fibpsefkd6kp5ivddgtgfeg67j26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itobuz.videorec",
+            "certificate_hash": "604ef62fb21fe89c9687ffd87bb37fc4d248186b"
+          }
+        },
+        {
+          "client_id": "702878783577-j4ibg3tkdvitmbl7g3hru2lggeksn9fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLLleD5vt8EQN1IjSznowkRFWa_HbOUCM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702878783577-j4ibg3tkdvitmbl7g3hru2lggeksn9fr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
